@@ -13,6 +13,7 @@ hs_err_pid*
 
 # Maven
 target/
+bin/
 *.ser
 *.ec
 
