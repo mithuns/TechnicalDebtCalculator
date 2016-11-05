@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<body>
+		<menu name="Documents">
+			<item name="Release Notes" href="changes-report.html"/>
+		</menu>
+    
+    	${reports}
+    	
+	</body> 
+</project>
